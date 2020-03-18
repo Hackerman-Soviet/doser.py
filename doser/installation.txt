@@ -1,0 +1,9 @@
+===================
+installing pip:
+
+python get-pip.py
+==================
+
+pip install colorama
+pip install requests
+pip install threading
